@@ -19,3 +19,9 @@ THESE ARE MY OWN  CODES FOR FEW STANDARD DS ALGOS QUESTIONS FROM GEEKS FOR GEEKS
 7)Find a Fixed Point (Value equal to index) in a given array
 
 8)Find the maximum element in an array which is first increasing and then decreasing
+
+9)Merge an array of size n into another array of size m+n
+
+10)Median of two sorted arrays of same size
+
+11)

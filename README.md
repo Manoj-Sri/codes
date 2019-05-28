@@ -27,7 +27,7 @@ THESE ARE MY OWN  CODES FOR FEW STANDARD DS ALGOS QUESTIONS FROM GEEKS FOR GEEKS
 11)Find the minimum element in a sorted and rotated array
 
 
-DIVIDE AND CONQUER TECHNIQUE
+DIVIDE AND CONQUER TECHNIQUE(dc)
 
 1)Write a program to calculate pow(x,n)
 

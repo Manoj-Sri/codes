@@ -24,4 +24,16 @@ THESE ARE MY OWN  CODES FOR FEW STANDARD DS ALGOS QUESTIONS FROM GEEKS FOR GEEKS
 
 10)Median of two sorted arrays of same size
 
-11)
+11)Find the minimum element in a sorted and rotated array
+
+
+DIVIDE AND CONQUER TECHNIQUE
+
+1)Write a program to calculate pow(x,n)
+
+2)Closest Pair of Points using Divide and Conquer algorithm(*******NOTYETDONE*******)
+
+3)Maximum Sub array sum
+
+4)Fibonacci using d and c
+

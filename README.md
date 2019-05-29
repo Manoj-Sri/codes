@@ -37,3 +37,25 @@ DIVIDE AND CONQUER TECHNIQUE(dc)
 
 4)Fibonacci using d and c
 
+TREES (better to do them on online judge of gfg)
+
+1)size of the tree
+
+2)depth of a tree
+
+3)dimeter of atree
+
+4)count no of leaves
+
+5)check for height balanced tree or not
+
+6)max width of a tree
+
+7)level order traversal
+
+8)reverse level order traversal
+
+9)Spiral level order traversal(not yet done the optimised method)
+
+10)check if two trees are identical or not
+

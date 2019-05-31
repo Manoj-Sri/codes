@@ -59,3 +59,17 @@ TREES (better to do them on online judge of gfg)
 
 10)check if two trees are identical or not
 
+11)Vertical sum of binary tree
+
+12)check all leaves are at same level
+
+13)difference of odd and even levels
+
+14)delete tree
+
+15)zigzag traversal
+
+16)Boundary Traversal
+
+17)
+

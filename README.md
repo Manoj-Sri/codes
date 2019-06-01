@@ -71,5 +71,19 @@ TREES (better to do them on online judge of gfg)
 
 16)Boundary Traversal
 
-17)
+17)lca of binary tree 
+
+18)print nodes at a distance k
+
+19)leftview
+
+20)double tree
+
+21)add al greater elements of every node and modify tree
+
+22)check isomorphic or not
+
+23)inorder successor
+
+24)lca of bst
 

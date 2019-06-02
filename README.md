@@ -1,6 +1,6 @@
 # intern-prep
 
-THESE ARE MY OWN  CODES FOR FEW STANDARD DS ALGOS QUESTIONS FROM GEEKS FOR GEEKS
+THESE ARE PRACTISE CODES FOR FEW STANDARD DS ALGOS QUESTIONS FROM GEEKS FOR GEEKS
 
 
 1)BINARY SEARCH
@@ -86,4 +86,21 @@ TREES (better to do them on online judge of gfg)
 23)inorder successor
 
 24)lca of bst
+
+25)is bst or not
+
+26)check folable or not
+
+27)mirror of a given tree
+
+28)sum of leaf nodes
+
+29)convert to sum tree
+
+30)check childrens sum property
+
+31)convert a bt to a tree holding children sum property
+
+
+
 

@@ -101,6 +101,13 @@ TREES (better to do them on online judge of gfg)
 
 31)convert a bt to a tree holding children sum property
 
+32)kth smallest in bst
 
+33)find pair of two numbers sum upto k in bst
 
+34)two node misplaced is bst
+
+35)remove nodes in the outside a given range
+
+36)
 

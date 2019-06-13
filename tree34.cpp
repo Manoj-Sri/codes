@@ -1,27 +1,29 @@
- struct node *first,*last,*prv;
-    
-void swap(node* x,node* y)
+vector<int> v;
+vector<Node*> nd;
+void utili(struct Node* np)
 {
-    int temp=x->data;
-    x->data=y->data;
-    y->data=temp;
+if(np==NULL)
+{
+return;
 }
-void error(node *root){
-    if(root){
-        error(root->left);
-        if(prv!=NULL&&prv->data>root->data){
-            if(first==NULL)first=prv;
-            last=root;
+utili(np->left);
+v.push_back(np->data);
+nd.push_back(np);
+utili(np->right);
+}
+struct Node *correctBST( struct Node* root )
+{
+    v.clear();
+    nd.clear();
+    utili(root);
+    vector<int> a;
+    a=v;
+    sort(a.begin(),a.end());
+    for(int i=0;i<v.size();i++){
+        if(a[i]!=v[i]){
+            nd[i]->data=a[i];
         }
-        prv=root;
-        error(root->right);
-        
     }
-}
-struct node *correctBST( struct node* root )
-{first=last=prv=NULL;
-error(root);
-    swap(first,last);
+    //add code here.
     return root;
-//add code here.
 }

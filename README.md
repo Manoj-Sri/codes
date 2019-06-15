@@ -109,5 +109,11 @@ TREES (better to do them on online judge of gfg)
 
 35)remove nodes in the outside a given range
 
-36)
+36)root to leaf paths
+
+37)root to leaf path sum
+
+38)Ancestors in a binary tree
+
+39)
 

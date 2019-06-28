@@ -115,5 +115,15 @@ TREES (better to do them on online judge of gfg)
 
 38)Ancestors in a binary tree
 
-39)
+39)Bt to dll
+
+40)sorted dll to bbst
+
+41)sorted array to bbst
+
+42)sorted ll to bbst
+
+43)merge two bbsts
+
+
 

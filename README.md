@@ -121,5 +121,10 @@ TREES (better to do them on online judge of gfg)
 
 41)merge two bbsts
 
+42)serialize and deserialse
+
+43)in and pre given build post
+
+44)full bt construction
 
 

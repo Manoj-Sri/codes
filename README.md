@@ -127,4 +127,57 @@ TREES (better to do them on online judge of gfg)
 
 44)full bt construction
 
+45)ancestor<==>tree    matrix
+
+ARRAYS
+
+1)Union of two arrays
+
+2)Intersection
+
+3)NUmber ooccuring odd number of times
+
+4)2 numbers with odd number of times
+
+5)pair sum upto x
+
+6)triplet sum upto x
+
+7)a[i]<a[j]<a[k]---O(n)
+
+8)1st missing positive integer
+
+9)Rows with max 1s
+
+10)Max diff b/n 2 elements such that larger willl appear after smaller
+
+11)Min diff of any 2 in array
+
+12)sum close to zero
+
+13)equilibrium index
+
+14)check element present n 2d rowand column sorted arrayy
+
+15)spirall
+
+16)segregate 0s 1s
+
+17)seggregate 1s 2 s 0s
+
+18)diagonal print
+
+19)90 degrrees rotate
+
+20)Rotate any delete 1 by one
+
+21)Kadanes
+
+22)max lenggth bitonic subarray
+
+23)max subsequence sum such that no two wlwmwnts are adjacent
+
+24)max repeating element
+
+
 

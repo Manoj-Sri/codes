@@ -1,0 +1,3 @@
+mask=n>>31;
+mask+n;
+(mask+n)^mask;

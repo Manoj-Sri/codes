@@ -18,3 +18,4 @@ int main() {
 	}
 	return 0;
 }
+//instead of sorting check using previous method using absolute value
